@@ -1,0 +1,172 @@
+* {
+  font-family: 'Merienda', cursive;
+}
+.profile-text{
+  font-size: 30px;
+  font-family: arial;
+  font-weight: bold;
+}
+
+.image-text{
+  border-radius: 300px;
+  width: 350px;
+  height: 350px;
+  margin-left: 10px;
+}
+
+.personal-text{
+  font-size: 30px;
+  font-family: arial;
+  font-weight: bold;
+}
+
+.name-text{
+  font-size: 20px;
+  font-weight: bold;
+  padding-left: 30px;
+  padding-top: 10px;
+}
+
+.roll-text{
+  font-size: 20px;
+  font-weight: bold;
+  padding-left: 30px;
+  padding-top: 10px;
+}
+
+.branch-text{
+  font-size: 20px;
+  font-weight: bold;
+  padding-left: 30px;
+  padding-top: 10px;
+}
+
+.mail-text{
+  font-size: 20px;
+  font-weight: bold;
+  padding-left: 30px;
+  padding-top: 10px;
+}
+
+.mail2-text{
+  font-size: 20px;
+  font-weight: bold;
+  padding-left: 30px;
+  padding-top: 10px;
+}
+  
+ .link1-text:hover{
+  font-size: 20px;
+  color: red;
+ }
+
+ .link-text:hover {
+  color: white;
+  font-size: 35px;
+ }
+  
+
+.bio-text{
+  font-size: 30px;
+  font-family: arial;
+  font-weight: bold;
+}
+
+.skill-text{
+  font-size: 30px;
+  font-family: arial;
+  font-weight: bold;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+.connect-text{
+  font-size: 30px;
+  font-family: arial;
+  font-weight: bold;
+}
+
+.wp-text{
+  padding-top: 5px;
+  padding-bottom: 3px;
+  border-radius: 10px;
+  border-width: 3px;
+  margin-top: 0;
+  margin-bottom: 10px;
+  margin-left: 50px;
+}   
+
+.insta-text{
+  padding-top: 5px;
+  padding-bottom: 3px;
+  border-radius: 10px;
+  border-width: 3px;
+  margin-top: 0;
+  margin-bottom: 10px;
+  margin-left: 50px;
+}
+
+.mail1-text{
+  padding-top: 5px;
+  padding-bottom: 3px;
+  border-radius: 10px;
+  border-width: 3px;
+  margin-top: 0;
+  margin-bottom: 10px;
+  margin-left: 50px;
+}
+
+.phone-text{
+  padding-top: 5px;
+  padding-bottom: 3px;
+  border-radius: 10px;
+  border-width: 3px;
+  margin-top: 0;
+  margin-bottom: 10px;
+  margin-left: 50px;
+}
+
+.video-text{
+  font-size: 30px;
+  font-family: arial;
+  font-weight: bold;
+}
+
+.audio-text{
+  font-size: 30px;
+  font-family: arial;
+  font-weight: bold;
+}
+
+.body-text{
+background-color:brown; /* For browsers that do not support gradients */
+background-image: linear-gradient(to right, brown , white);
+border: 5px solid black;
+}
+
+
+.bio1-text{
+  font-size: 20px;
+  font-weight: bold;
+  padding-left: 30px;
+  padding: 10px;
+}
+
+.bio2-text{
+  margin: 10px;
+}
+
